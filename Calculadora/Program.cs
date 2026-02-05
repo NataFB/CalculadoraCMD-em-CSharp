@@ -4,7 +4,7 @@ namespace Calculadora
 {
     class Program
     {
-
+        // Definição do enum Menu para representar as opções do menu
         enum Menu
         {
             Soma = 1,
@@ -31,10 +31,14 @@ namespace Calculadora
                     "7-Sair");
                 Menu opcao = (Menu)int.Parse(Console.ReadLine()); //Aplicando casting para o enum Menu
 
+                //Lógica para chamar a operação escolhida
                 switch (opcao)
                 {
                     case Menu.Soma:
                         OperacaoSoma.Soma();
+                        break;
+                    case Menu.Subtracao: 
+                        OperacaoSubtrair.Subtrair();
                         break;
                     case Menu.Sair:
                         escolheuSair = true;

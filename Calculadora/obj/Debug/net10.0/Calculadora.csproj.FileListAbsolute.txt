@@ -26,3 +26,4 @@ C:\Users\nataf\OneDrive\Documentos\CalculadoraCMD-em-CSharp\Calculadora\obj\Debu
 C:\Users\nataf\OneDrive\Documentos\CalculadoraCMD-em-CSharp\Calculadora\obj\Debug\net10.0\Calculadora.pdb
 C:\Users\nataf\OneDrive\Documentos\CalculadoraCMD-em-CSharp\Calculadora\obj\Debug\net10.0\Calculadora.genruntimeconfig.cache
 C:\Users\nataf\OneDrive\Documentos\CalculadoraCMD-em-CSharp\Calculadora\obj\Debug\net10.0\ref\Calculadora.dll
+C:\Users\nataf\OneDrive\Documentos\CalculadoraCMD-em-CSharp\Calculadora\obj\Debug\net10.0\Calculadora.sourcelink.json

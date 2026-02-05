@@ -6,12 +6,13 @@ namespace Calculadora.Operacoes
     {
         public static void Soma()
         {
+
             List<double> numeros = new List<double>();
 
             Console.WriteLine("Digite números para somar.");
             Console.WriteLine("Pressione ENTER vazio para finalizar.\n");
 
-            while (true)
+            while (true) // Loop infinito, será interrompido quando o usuário pressionar ENTER sem digitar nada, Adicionalmente, valida se o valor digitado é numérico
             {
                 Console.Write("Digite um número: ");
                 string entrada = Console.ReadLine();
@@ -22,7 +23,7 @@ namespace Calculadora.Operacoes
                 }
                 else if (double.TryParse(entrada,CultureInfo.InvariantCulture, out double valor))
                 {
-                    numeros.Add(valor);
+                    numeros.Add(valor); // Adiciona o número à lista
                 }
                 else
                 {
@@ -32,6 +33,7 @@ namespace Calculadora.Operacoes
 
             double resultado = 0;
 
+            // Realiza a soma dos números armazenados na lista
             foreach (double n in numeros)
             {
                 resultado += n;
