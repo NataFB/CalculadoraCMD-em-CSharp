@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4smjNrWBbPM=",
+  "dgSpecHash": "aCbkIjtipRI=",
   "success": true,
   "projectFilePath": "C:\\Users\\nataf\\OneDrive\\Documentos\\CalculadoraCMD-em-CSharp\\Calculadora\\Calculadora.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nataf\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.2\\microsoft.net.illink.tasks.10.0.2.nupkg.sha512",
+    "C:\\Users\\nataf\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.2\\microsoft.netcore.app.runtime.win-x64.10.0.2.nupkg.sha512",
+    "C:\\Users\\nataf\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.2.nupkg.sha512",
+    "C:\\Users\\nataf\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.2\\microsoft.aspnetcore.app.runtime.win-x64.10.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
