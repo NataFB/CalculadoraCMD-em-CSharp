@@ -40,6 +40,15 @@ namespace Calculadora
                     case Menu.Subtracao: 
                         OperacaoSubtrair.Subtrair();
                         break;
+                    case Menu.Divisao:
+                        OperacaoDividir.Dividir();
+                        break;
+                    case Menu.Multiplicacao:
+                        OperacaoMultiplicar.Multiplicar();
+                        break;
+                    case Menu.Potencia:
+                        OperacaoPotencia.Potencia();
+                        break;
                     case Menu.Sair:
                         escolheuSair = true;
                         break;

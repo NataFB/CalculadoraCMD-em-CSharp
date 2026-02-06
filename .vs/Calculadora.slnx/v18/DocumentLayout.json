@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\CalculadoraCMD-em-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|c:\\users\\nataf\\onedrive\\documentos\\calculadoracmd-em-csharp\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|c:\\users\\nataf\\onedrive\\documentos\\calculadoracmd-em-csharp\\calculadora\\operacoes\\operacaodividir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\operacoes\\operacaodividir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|c:\\users\\nataf\\onedrive\\documentos\\calculadoracmd-em-csharp\\calculadora\\operacoes\\operacaosoma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\operacoes\\operacaosoma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|c:\\users\\nataf\\onedrive\\documentos\\calculadoracmd-em-csharp\\calculadora\\operacoes\\operacaosubtrair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\operacoes\\operacaosubtrair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|c:\\users\\nataf\\onedrive\\documentos\\calculadoracmd-em-csharp\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|c:\\users\\nataf\\onedrive\\documentos\\calculadoracmd-em-csharp\\calculadora\\operacoes\\operacaopotencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\operacoes\\operacaopotencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\CalculadoraCMD-em-CSharp\\Calculadora\\Program.cs",
-              "RelativeDocumentMoniker": "Calculadora\\Program.cs",
-              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\CalculadoraCMD-em-CSharp\\Calculadora\\Program.cs",
-              "RelativeToolTip": "Calculadora\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowDMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T16:52:21.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OperacaoSubtrair.cs",
-              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\CalculadoraCMD-em-CSharp\\Calculadora\\Operacoes\\OperacaoSubtrair.cs",
-              "RelativeDocumentMoniker": "Calculadora\\Operacoes\\OperacaoSubtrair.cs",
-              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\CalculadoraCMD-em-CSharp\\Calculadora\\Operacoes\\OperacaoSubtrair.cs",
-              "RelativeToolTip": "Calculadora\\Operacoes\\OperacaoSubtrair.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCkAAABtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T16:13:14.084Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -58,9 +36,48 @@
               "RelativeDocumentMoniker": "Calculadora\\Operacoes\\OperacaoSoma.cs",
               "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\CalculadoraCMD-em-CSharp\\Calculadora\\Operacoes\\OperacaoSoma.cs",
               "RelativeToolTip": "Calculadora\\Operacoes\\OperacaoSoma.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T17:36:58.932Z",
+              "WhenOpened": "2026-02-06T13:33:16.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperacaoDividir.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\CalculadoraCMD-em-CSharp\\Calculadora\\Operacoes\\OperacaoDividir.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Operacoes\\OperacaoDividir.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\CalculadoraCMD-em-CSharp\\Calculadora\\Operacoes\\OperacaoDividir.cs",
+              "RelativeToolTip": "Calculadora\\Operacoes\\OperacaoDividir.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T13:32:15.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OperacaoPotencia.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\CalculadoraCMD-em-CSharp\\Calculadora\\Operacoes\\OperacaoPotencia.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Operacoes\\OperacaoPotencia.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\CalculadoraCMD-em-CSharp\\Calculadora\\Operacoes\\OperacaoPotencia.cs",
+              "RelativeToolTip": "Calculadora\\Operacoes\\OperacaoPotencia.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T13:16:18.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\CalculadoraCMD-em-CSharp\\Calculadora\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\CalculadoraCMD-em-CSharp\\Calculadora\\Program.cs",
+              "RelativeToolTip": "Calculadora\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T16:52:21.644Z",
               "EditorCaption": ""
             }
           ]
