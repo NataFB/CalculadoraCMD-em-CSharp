@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\CalculadoraCMD-em-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|c:\\users\\nataf\\onedrive\\documentos\\calculadoracmd-em-csharp\\calculadora\\operacoes\\operacaoraiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\operacoes\\operacaoraiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|c:\\users\\nataf\\onedrive\\documentos\\calculadoracmd-em-csharp\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|c:\\users\\nataf\\onedrive\\documentos\\calculadoracmd-em-csharp\\calculadora\\operacoes\\operacaodividir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\operacoes\\operacaodividir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|c:\\users\\nataf\\onedrive\\documentos\\calculadoracmd-em-csharp\\calculadora\\operacoes\\operacaoraiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\operacoes\\operacaoraiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +22,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "OperacaoRaiz.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\CalculadoraCMD-em-CSharp\\Calculadora\\Operacoes\\OperacaoRaiz.cs",
               "RelativeDocumentMoniker": "Calculadora\\Operacoes\\OperacaoRaiz.cs",
               "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\CalculadoraCMD-em-CSharp\\Calculadora\\Operacoes\\OperacaoRaiz.cs",
               "RelativeToolTip": "Calculadora\\Operacoes\\OperacaoRaiz.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB4AAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T14:38:27.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T14:38:27.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "OperacaoDividir.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\CalculadoraCMD-em-CSharp\\Calculadora\\Operacoes\\OperacaoDividir.cs",
               "RelativeDocumentMoniker": "Calculadora\\Operacoes\\OperacaoDividir.cs",
@@ -47,12 +46,11 @@
               "RelativeToolTip": "Calculadora\\Operacoes\\OperacaoDividir.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T13:32:15.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T13:32:15.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\CalculadoraCMD-em-CSharp\\Calculadora\\Program.cs",
               "RelativeDocumentMoniker": "Calculadora\\Program.cs",
