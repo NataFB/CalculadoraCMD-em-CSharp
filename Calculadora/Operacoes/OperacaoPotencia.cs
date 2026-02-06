@@ -23,7 +23,7 @@ namespace Calculadora.Operacoes
             {
                 Console.WriteLine("Entrada inválida. Operação cancelada.");
             }
-            else // Se as entradas forem válidas, realiza a divisão e exibe o resultado
+            else // Se as entradas forem válidas, realiza a potência e exibe o resultado
             {
                 double.TryParse(baseNum, CultureInfo.InvariantCulture, out basenum);
                 double.TryParse(Expoente, CultureInfo.InvariantCulture, out expoente);
@@ -34,7 +34,7 @@ namespace Calculadora.Operacoes
                 else // Realiza a potência utilizando Math.Pow e exibe o resultado formatado com 2 casas decimais
                 {
                     double resultado = Math.Pow(basenum, expoente);
-                    Console.WriteLine($"Resultado da divisão: {resultado.ToString("F2", CultureInfo.InvariantCulture)}");
+                    Console.WriteLine($"Resultado da Potência: {resultado.ToString("F2", CultureInfo.InvariantCulture)}");
                 }
             }
 

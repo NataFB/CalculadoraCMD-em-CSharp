@@ -49,6 +49,9 @@ namespace Calculadora
                     case Menu.Potencia:
                         OperacaoPotencia.Potencia();
                         break;
+                    case Menu.Raiz:
+                        OperacaoRaiz.Raiz();
+                        break;
                     case Menu.Sair:
                         escolheuSair = true;
                         break;
